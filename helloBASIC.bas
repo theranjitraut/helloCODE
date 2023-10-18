@@ -1,3 +1,3 @@
 CLS
-PRINT "Hello, Worl"
+PRINT "Hello, BASIC"
 END
